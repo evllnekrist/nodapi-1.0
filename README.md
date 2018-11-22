@@ -1,5 +1,5 @@
 <p align="center">
-  <p>
+  <p align="center">
   <a href="https://nodejs.org/">
     <img
       alt="Node.js"
@@ -8,8 +8,10 @@
     />
   </a>
   </p>
-  <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT295JKmXKfQCohlipDreyDPBN9IJs63fu5orYuB2_fjTk9DUCa-g"></p>
-  <p>
+  <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT295JKmXKfQCohlipDreyDPBN9IJs63fu5orYuB2_fjTk9DUCa-g" width="100">
+  </p>
+  <p align="center">
   <a href="https://www.mongodb.com/">
     <img
       alt="mongoDB"
