@@ -9,7 +9,7 @@
   </a>
   </p>
   <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SemiTransBlack_x.svg/1024px-SemiTransBlack_x.svg.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grey_close_x.svg/1024px-Grey_close_x.svg.png" width="100">
   </p>
   <p align="center">
   <a href="https://www.mongodb.com/">
