@@ -1,4 +1,5 @@
 <p align="center">
+  <p>
   <a href="https://nodejs.org/">
     <img
       alt="Node.js"
@@ -6,7 +7,9 @@
       width="300"
     />
   </a>
-   
+  </p>
+  <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT295JKmXKfQCohlipDreyDPBN9IJs63fu5orYuB2_fjTk9DUCa-g"></p>
+  <p>
   <a href="https://www.mongodb.com/">
     <img
       alt="mongoDB"
@@ -14,6 +17,7 @@
       width="300"
     />
   </a>
+  </p>
 </p>
 
 ## Salam,
