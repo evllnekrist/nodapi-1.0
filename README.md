@@ -9,7 +9,7 @@
   </a>
   </p>
   <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT295JKmXKfQCohlipDreyDPBN9IJs63fu5orYuB2_fjTk9DUCa-g" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SemiTransBlack_x.svg/1024px-SemiTransBlack_x.svg.png" width="100">
   </p>
   <p align="center">
   <a href="https://www.mongodb.com/">
